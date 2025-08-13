@@ -1,3 +1,6 @@
+
+import './globals.css'
+
 export const metadata = {
   title: '工作派工與日報管理',
   description: '任務派工、日報填寫與看板管理',

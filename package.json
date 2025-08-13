@@ -1,12 +1,11 @@
 {
   "name": "workmgr-next",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "postinstall": "tailwindcss -v >/dev/null 2>&1 || echo 'Tailwind will be used via plugin'"
+    "start": "next start"
   },
   "dependencies": {
     "next": "14.2.5",
